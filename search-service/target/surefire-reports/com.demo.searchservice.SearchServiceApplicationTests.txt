@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.demo.searchservice.SearchServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 43.623 s - in com.demo.searchservice.SearchServiceApplicationTests
